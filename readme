@@ -1,0 +1,24 @@
+A simple CodePen-like web application built with React and Tailwind CSS, where you can write HTML, CSS, and JavaScript — and see the live output instantly.
+
+Features
+Live preview of HTML, CSS, and JS
+Auto-update preview with debounce 
+Responsive layout 
+Styled using Tailwind CSS
+
+
+How to Run Locally
+
+1) Install dependencies
+  npm install
+
+2) Start development server
+  npm run dev
+
+
+Technologies Used
+React
+Tailwind CSS
+Vite (build tool)
+
+
